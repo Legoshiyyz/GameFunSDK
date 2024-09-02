@@ -1,0 +1,6 @@
+framework module GameFunSDK {
+  umbrella header "GameFunSDK.h"
+
+  export *
+  module * { export * }
+}
